@@ -1,0 +1,12 @@
+{
+  "name": "henu-edu-admin",
+  "version": "1.0.0",
+  "description": "河南师范大学教务网络管理系统（演示）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
